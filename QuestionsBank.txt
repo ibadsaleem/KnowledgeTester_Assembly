@@ -1,0 +1,591 @@
+UNIVAC is
+A) Universal Automatic Computer
+B) Universal Array Computer
+C) Unique Automatic Computer
+D) Unvalued Automatic Computer,
+The basic operations performed by a computer are
+
+A) Arithmetic operation
+B) Logical operation
+C) Storage and relative
+D) All the above,
+The two major types of computer chips are
+
+A) External memory chip
+B) Primary memory chip
+C) Microprocessor chip
+D) Both b and c,
+Microprocessors as switching devices are for
+which generation computers
+
+A) First Generation
+B) Second Generation
+C) Third Generation
+D) Fourth Generation,
+What is the main difference between a mainframe
+and a super computer?
+
+A) Super computer is much larger than mainframe computers
+B) Super computers are much smaller than mainframe
+computers
+C) Supercomputers are focused to execute few programs as
+fast as possible while mainframe uses its power to execute as
+many programs concurrently
+D) Supercomputers are focused to execute as many programs
+as possible while mainframe uses its power to execute few
+programs as fast as possible,
+ASCII and EBCDIC are the popular character
+coding systems. What does EBCDIC stand for?
+A) Extended Binary Coded Decimal Interchange Code
+B) Extended Bit Code Decimal Interchange Code
+C) Extended Bit Case Decimal Interchange Code
+D) Extended Binary Case Decimal Interchange Code,
+The brain of any computer system is
+A) ALU
+B) Memory
+C) CPU
+D) Control unit,
+Storage capacity of magnetic disk depends on
+A) tracks per inch of surface
+B) bits per inch of tracks
+C) disk pack in disk surface
+D) All of above,
+The two kinds of main memory are:
+A) Primary and secondary
+B) Random and sequential
+C) ROM and RAM
+D) All of above,
+A storage area used to store data to a compensate
+for the difference in speed at which the different
+units can handle data is
+A) Memory
+B) Buffer
+C) Accumulator
+D) Address,
+Computer is free from tiresome and boardoom.
+We call it
+A) Accuracy
+B) Reliability
+C) Diligence
+D) Versatility,
+Integrated Circuits (Ics) are related to which
+generation of computers?
+A) First generation
+B) Second generation
+C) Third generation
+D) Fourth generation,
+CD-ROM is a
+A) Semiconductor memory
+B) Memory register
+C) Magnetic memory
+D) None of above,
+A hybrid computer
+A) Resembles digital computer
+B) Resembles analogue computer
+C) Resembles both a digital and analogue computer
+D) None of the above,
+Which type of computers uses the 8-bit code
+called EBCDIC?
+A) Minicomputers
+B) Microcomputers
+C) Mainframe computers
+D) Super computer,
+The ALU of a computer responds to the
+commands coming from
+A) Primary memory
+B) Control section
+C) External memory
+D) Cache memory,
+Chief component of first generation computer
+was
+A) Transistors
+B) Vacuum Tubes and Valves
+C) Integrated Circuits
+D) None of above,
+To produce high quality graphics (hardcopy) in
+color you would want to use a/n
+A) RGB monitor
+B) Plotter
+C) Ink-jet printer
+D) Laser printer,
+
+What are the stages in the compilation process?
+A) Feasibility study   system design and testing
+B) Implementation and documentation
+C) Lexical Analysis syntax analysis and code generation
+D) None of the above,
+
+Which of the following IC was used in third
+generation of computers?
+A) SSI
+B) MSI
+C) LSI
+D) Both a and b,
+
+The main electronic component used in first
+generation computers was
+A) Transistors
+B) Vacuum Tubes and Valves
+C) Integrated Circuits
+D) None of above,
+
+A dumb terminal has
+A) an embedded microprocessor
+B) extensive memory
+C) independent processing capability
+D) a keyboard and screen,
+
+One millisecond is
+A) 1 second
+B) 10th of a seconds
+C) 1000th of a seconds
+D) 10000th of a seconds,
+
+The output quality of a printer is measured by
+A) Dot per sq. inch
+B) Dot per inch
+C) Dots printed per unit time
+D) All of the above,
+
+Which of the following was a special purpose
+computer?
+A) ABC
+B) ENIAC
+C) EDVAC
+D) All of the above,
+
+What was the computer invented by Attanasoff
+and Clifford?
+A) Mark I
+B) ABC
+C) Z3
+D) None of above,
+
+Which of the following storage devices can store
+maximum amount of data?
+A) Floppy Disk
+B) Hard Disk
+C) Compact Disk
+D) Magneto Optic Disk,
+
+Which computer was considered the first
+electronic computer until 1973 when court
+invalidated the patent?
+A) ENIAC
+B) MARK I
+C) Z3
+D) ABC,
+A physical connection between the
+microprocessor memory and other parts of the
+microcomputer is known as
+A) Path
+B) Address bus
+C) Route
+D) All of the above,
+High density double sided floppy disks could
+store _____ of data
+A) 1.40 MB
+B) 1.44 GB
+C) 1.40 GB
+D) 1.44 MB,
+A high quality CAD system uses the following for
+printing drawing and graphs
+A) Dot matrix printer
+B) Digital plotter
+C) Line printer
+D) All of the above,
+Which of the following is not an input device?
+A) OCR
+B) Optical scanners
+C) Voice recognition device
+D) COM (Computer Output to Microfilm),
+The accuracy of the floating-point numbers
+representable in two 16-bit words of a computer is
+approximately
+A) 16 digits
+B) 6 digits
+C) 9 digits
+D) All of above,
+In most of the IBM PCs the CPU and  the device
+drivers and memory and expansion slots and active
+components are mounted on a single board. What is
+the name of the board?
+A) Motherboard
+B) Daughterboard
+C) Bredboard
+D) Fatherboard,
+In most IBM PCs  the CPU and the device drives 
+memory expansion slots and active components are
+mounted on a single board. What is the name of this
+board?
+A) Motherboard
+B) Breadboard
+C) Daughter board
+D) Grandmother board,
+Magnetic disks are the most popular medium for
+A) Direct access
+B) Sequential access
+C) Both of above
+D) None of above,
+A technique used by codes to convert an analog
+signal into a digital bit stream is known as
+A) Pulse code modulation
+B) Pulse stretcher
+C) Query processing
+D) Queue management,
+Regarding a VDU Which statement is more
+correct?
+A) It is an output device
+B) It is an input device
+C) It is a peripheral device
+D) It is hardware item,
+A modern electronic computer is a machine that
+is meant for
+A) Doing quick mathematical calculations
+B) Input storage manipulation and outputting of data
+C) Electronic data processing
+D) Performing repetitive tasks accurately,
+When was vacuum tube invented?
+A) 1900
+B) 1906
+C) 1910
+D) 1880,
+Which of the following produces the best quality
+graphics reproduction?
+A) Laser printer
+B) Ink jet printer
+C) Plotter
+D) Dot matrix printer,
+Computers with 80286 microprocessor is
+A) XT computer
+B) AT comptuers
+C) PS/2 computer
+D) None of above,
+An application suitable for sequential processing
+is
+A) Processing of grades
+B) Payroll processing
+C) Both a and b
+D) All of above,
+Which of the following is not processing?
+A) arranging
+B) manipulating
+C) calculating
+D) gathering,
+The digital computer was developed primarily in
+A) USSR
+B) Japan
+C) USA
+D) UK,
+Software in computer
+A) Enhances the capabilities of the hardware machine
+B) Increase the speed of central processing unit
+C) Both of above
+D) None of above,
+Todays computer giant IBM was earlier known
+by different name which was changes in 1924. What
+was that name?
+A) Tabulator Machine Co.
+B) Computing Tabulating Recording Co.
+C) The Tabulator Ltd.
+D) International Computer Ltd,
+Before a disk drive can access any sector record
+a computer program has to provide the record’s disk
+address. What information does this address
+specify?
+A) Track number
+B) Sector number
+C) Surface number
+D) All of above,
+The arranging of data in a logical sequence is
+called
+A) Sorting
+B) Classifying
+C) Reproducing
+D) Summarizing,
+What is the responsibility of the logical unit in
+the CPU of a computer?
+A) To produce result
+B) To compare numbers
+C) To control flow of information
+D) To do math’s works,
+Abacus was the first
+A) electronic computer
+B) mechanical computer
+C) electronic calculator
+D) mechanical calculator,
+If in a computer 16 bits are used to specify address in a
+RAM  the number of addresses will be
+A) 216
+B) 65536
+C) 64K
+D) Any of the above,
+Instructions and memory address are represented by
+A) Character code
+B) Binary codes
+C) Binary word
+D) Parity bit,
+The terminal device that functions as a cash register and
+computer terminal and OCR reader is the:
+A) Data collection terminal
+B) OCR register terminal
+C) Video Display terminal
+D) POS terminal,
+A set of flip flops integrated together is called ____
+A) Counter
+B) Adder
+C) Register
+D) None of the above,
+People often call ______ as the brain of computer system
+A) Control Unit
+B) Arithmetic Logic Unit
+C) Central Processing Unit
+D) Storage Unit,
+Which is used for manufacturing chips?
+A) Bus
+B) Control unit
+C) Semiconductors
+D) A and b only,
+The value of each bead in heaven is
+A) 1
+B) 3
+C) 5
+D) 7,
+The first computer introduced in Nepal was
+A) IBM 1400
+B) IBM 1401
+C) IBM 1402
+D) IBM1402,
+Mnemonic a memory trick is used in which of the
+following language?
+A) Machine language
+B) Assembly language
+C) High level language
+D) None of above,
+Instruction in computer languages consists of
+A) OPCODE
+B) OPERAND
+C) Both of above
+D) None of above,
+Which generation of computer is still under development
+A) Fourth Generation
+B) Fifth Generation
+C) Sixth Generation
+D) Seventh Generation,
+A register organized to allow to move left or right
+operations is called a ____
+A) Counter
+B) Loader
+C) Adder
+D) Shift register,
+Which was the most popular first generation computer?
+A) IBM 1650
+B) IBM 360
+C) IBM 1130
+D) IBM 2700,
+Which is considered a direct entry input device?
+A) Optical scanner
+B) Mouse and digitizer
+C) Light pen
+D) All of the above,
+A set of information that defines the status of resources
+allocated to a process is
+A) Process control
+B) ALU
+C) Register Unit
+D) Process description,
+Each set of Napier’s bones consisted of ______ rods.
+A) 5
+B) 9
+C) 11
+D) 13,
+BCD is
+A) Binary Coded Decimal
+B) Bit Coded Decimal
+C) Binary Coded Digit
+D) Bit Coded Digit,
+When was the world’s first laptop computer introduced in
+the market and by whom?
+A) Hewlett-Packard 1980
+B) Epson 1981
+C) Laplink Traveling Software Inc 1982
+D) Tandy Model-200 1985,
+From which generation operating systems were
+developed?
+A) First
+B) Second
+C) Third
+D) Fourth,
+The first firm to mass-market a microcomputer as a
+personal computer was?
+A) IBM
+B) Super UNIVAC
+C) Radio Shaks
+D) Data General Corporation,
+How many address lines are needed to address each
+machine location in a 2048 x 4 memory chip?
+A) 10
+B) 11
+C) 8
+D) 12,
+Properly arranged data is called
+A) Field
+B) Words
+C) Information
+D) File,
+A computer consists of
+A) A central processing unit
+B) A memory
+C) Input and output unit
+D) All of the above,
+Why are vacuum tubes also called valves?
+A) Because they can amplify the weak signals and make them
+strong
+B) Because they can stop or allow the flow of current
+C) Both of above
+D) None of above,
+John Napier invented Logarithm in
+A) 1614
+B) 1617
+C) 1620
+D) None of above,
+An integrated circuit is
+A) A complicated circuit
+B) An integrating device
+C) Much costlier than a single transistor
+D) Fabricated on a tiny silicon chip,
+What type of control pins are needed in a microprocessor
+to regulate traffic on the bus in order to prevent two devices
+from trying to use it at the same time?
+A) Bus control
+B) Interrupts
+C) Bus arbitration
+D) Status,
+Where as a computer mouse moves over the table surface
+the trackball is
+A) Stationary
+B) Difficult to move
+C) Dragged
+D) Moved in small steps,
+Which of the following is used as a primary storage
+device?
+A) Magnetic drum
+B) Hard Disks
+C) Floppy
+D) All of above,
+Multi user systems provided cost savings for small
+business because they use a single processing unit to link
+several
+A) Personal computers
+B) Workstations
+C) Dumb terminals
+D) Mainframes,
+What are the three decisions making operations
+performed by the ALU of a computer?
+A) Grater than
+B) Less than
+C) Equal to
+D) All of the above,
+The word processing task associated with changing the
+appearance of a document is
+A) Editing
+B) Writing
+C) Formatting
+D) All of above,
+Nepal brought a computer for census of 2028 BS. This
+computer was of
+A) first generation
+B) second generation
+C) third generation
+D) fourth generation,
+Algorithm and Flow chart help us to
+A) Know the memory capacity
+B) Identify the base of a number system
+C) Direct the output to a printer
+D) Specify the problem completely and clearly,
+Which statement is valid about computer program?
+A) It is understood by a computer
+B) It is understood by programmer
+C) It is understood user
+D) Both a & b,
+The difference between memory and storage is that
+memory is _____ and storage is __
+A) Temporary and permanent
+B) Permanent and temporary
+C) Slow and fast
+D) All of above,
+When was Pascaline invented?
+A) 1617
+B) 1620
+C) 1642
+D) 1837,
+Which of the following statement is valid?
+A) Lady Augusta is the first programmer
+B) Ada is the daughter of Lord Byron a famous English poet
+C) ADA is a programming language developed by US Defense
+D) All of above,
+A compiler is a translating program which
+A) Translates instruction of a high level language into
+machine language
+B) Translates entire source program into machine language
+program
+C) It is not involved in program’s execution
+D) All of above,
+What is required when more than one person uses a
+central computer at the same time?
+A) Light pen
+B) Mouse
+C) Digitizer
+D) Terminal,
+Which of the following is the first computer to use Stored
+Program Concept?
+A) UNIVAC
+B) ENIAC
+C) EDSAC
+D) None of above,
+The term gigabyte refers to
+A) 1024 bytes
+B) 1024 kilobytes
+C) 1024 megabytes
+D) 1024 gigabyte,
+In which year was UK’s premier computing event called ?
+The which computer? started?
+A) 1980
+B) 1985
+C) 1986
+D) 1987,
+Once you load the suitable program and provide required
+data computer does not need human intervention. This
+feature is known as
+A) Accuracy
+B) Reliability
+C) Versatility
+D) Automatic,
+What is a brand?
+A) The name of companies that made computers
+B) The name of product a company gives to identify its
+product in market
+C) A name of class to indicate all similar products from
+different companies
+D) All of above,
+Machine language is
+A) Machine dependent
+B) Difficult to program
+C) Error prone
+D) All of above,
+A byte consists of
+A) One bit
+B) Four bits
+C) Eight bits
+D) Sixteen bits,
+Modern Computers are very reliable but they are not
+A) Fast
+B) Powerful
+C) Infallible
+D) Cheap,
+What is the date when Babbage conceived Analytical
+engine
+A) 1642
+B) 1837
+C) 1880
+D) 1850,

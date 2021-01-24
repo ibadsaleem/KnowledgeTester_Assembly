@@ -1,0 +1,17 @@
+﻿Build started 22-Jan-21 11:57:33 AM.
+     1>Project "C:\Users\ibads\Desktop\KnowledgeTester\KnowledgeTester.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\KnowledgeTester.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       _MASM:
+       Skipping target "_MASM" because all output files are up-to-date with respect to the input files.
+       Link:
+         All outputs are up-to-date.
+         KnowledgeTester.vcxproj -> C:\Users\ibads\Desktop\KnowledgeTester\Debug\KnowledgeTester.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\KnowledgeTester.unsuccessfulbuild".
+         Touching "Debug\KnowledgeTester.lastbuildstate".
+     1>Done Building Project "C:\Users\ibads\Desktop\KnowledgeTester\KnowledgeTester.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.10
